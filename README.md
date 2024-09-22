@@ -27,4 +27,12 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/armaandeol/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/armaandeol/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
