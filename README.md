@@ -12,20 +12,24 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/armaandeol/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/armaandeol/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
