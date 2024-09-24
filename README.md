@@ -48,8 +48,18 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
