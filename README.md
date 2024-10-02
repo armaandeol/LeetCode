@@ -83,6 +83,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/armaandeol/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -90,6 +91,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/armaandeol/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -97,11 +99,13 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/armaandeol/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/armaandeol/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
