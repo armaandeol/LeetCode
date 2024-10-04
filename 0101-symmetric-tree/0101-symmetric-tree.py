@@ -17,7 +17,6 @@ class Solution:
             if root1.val != root2.val:
                 return False
             
-            return same(root1.left, root2.right) and \
-                   same(root1.right, root2.left)
+            return same(root1.left, root2.right) and same(root1.right, root2.left)
 
         return same(root, root)
