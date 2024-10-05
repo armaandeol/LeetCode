@@ -19,6 +19,6 @@ class Solution:
         for i in range(n1,n2):
             s2_counts[ord(s2[i]) - 97] += 1
             s2_counts[ord(s2[i-n1]) - ord('a')] -= 1
-            if s2_counts == s1_counts:
+            if s1_counts == s2_counts:
                 return True
         return False
