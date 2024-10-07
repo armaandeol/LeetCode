@@ -13,7 +13,7 @@ class Solution:
             s2_counts[ord(s2[i])-97] += 1
 
 
-        if s1_counts == s2_counts:
+        if s2_counts == s1_counts:
             return True
 
         for i in range(n1,n2):
