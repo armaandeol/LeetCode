@@ -12,7 +12,7 @@ class Solution:
 
             curr_sum += root.val
 
-            if not root.left and not root.right:
+            if not root.right and not root.left:
                 return curr_sum == targetSum
 
             return has_sum(root.left,curr_sum) or has_sum(root.right,curr_sum)
