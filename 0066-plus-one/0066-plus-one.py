@@ -1,16 +1,13 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        n = len(digits)
-        
-        
-        for i in range(n - 1, -1, -1):
-            if digits[i] < 9:
-                digits[i] += 1
-                return digits
-
-            digits[i] = 0
-        
-
-        return [1] + digits
+        length = len(digits) - 1
+        while digits[length] == 9:
+            digits[length] = 0
+            length -= 1
+        if(length < 0):
+            digits = [1] + digits
+        else:
+            digits[length] += 1
+        return digits
         
         
