@@ -13,6 +13,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/armaandeol/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/armaandeol/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
@@ -123,4 +124,8 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0112-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
