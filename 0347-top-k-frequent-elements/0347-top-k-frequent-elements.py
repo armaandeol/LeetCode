@@ -11,5 +11,5 @@ class Solution:
             else:
                 heapq.heappushpop(heap,(val,key))
 
-        return [h[1] for h in heap]
+        return [g[1] for g in heap]
                 
