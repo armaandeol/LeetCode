@@ -90,6 +90,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
@@ -148,6 +149,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -203,4 +205,8 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
