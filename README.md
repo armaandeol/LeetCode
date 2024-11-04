@@ -16,6 +16,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/armaandeol/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -209,9 +210,14 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
