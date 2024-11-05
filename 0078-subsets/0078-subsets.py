@@ -3,15 +3,15 @@ class Solution:
         n = len(nums)
         res,sol = [],[]
 
-        def backtrack(i):
-            if i == n:
+        def backtrack(x):
+            if x == n:
                 res.append(sol[:])
                 return 
             
-            backtrack(i+1)
+            backtrack(x+1)
 
-            sol.append(nums[i])
-            backtrack(i+1)
+            sol.append(nums[x])
+            backtrack(x+1)
             sol.pop()
 
 
