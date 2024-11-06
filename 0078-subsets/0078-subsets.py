@@ -1,10 +1,10 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        n = len(nums)
+        number = len(nums)
         res,sol = [],[]
 
         def backtrack(x):
-            if x == n:
+            if x == number:
                 res.append(sol[:])
                 return 
             
