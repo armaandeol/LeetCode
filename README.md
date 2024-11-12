@@ -14,6 +14,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0001-two-sum](https://github.com/armaandeol/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
@@ -219,5 +220,6 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
