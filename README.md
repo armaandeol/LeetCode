@@ -221,5 +221,6 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/armaandeol/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
