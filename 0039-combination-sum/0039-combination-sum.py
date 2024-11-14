@@ -1,8 +1,8 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res,sol = [],[]
-        nums = candidates
-        n = len(nums)
+        numbers = candidates
+        n = len(numbers)
 
         def backtrack(i, curr_sum):
             if curr_sum == target:
@@ -14,8 +14,8 @@ class Solution:
 
             backtrack(i+1, curr_sum)
 
-            sol.append(nums[i])
-            backtrack(i, curr_sum+nums[i])
+            sol.append(numbers[i])
+            backtrack(i, curr_sum+numbers[i])
             sol.pop()
 
         backtrack(0, 0)
