@@ -13,13 +13,13 @@ class Solution:
 
         n= len(digits)
 
-        def backtrack(a=0):
-            if a ==n:
+        def backtrack(i=0):
+            if i==n:
                 ans.append("".join(sol))
                 return
-            for letter in letter_map[digits[a]]:
+            for letter in letter_map[digits[i]]:
                 sol.append(letter)
-                backtrack(a+1)
+                backtrack(i+1)
                 sol.pop()
         backtrack(0)
         return ans
