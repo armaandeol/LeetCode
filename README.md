@@ -84,6 +84,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/armaandeol/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/armaandeol/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/armaandeol/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
@@ -196,6 +197,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/armaandeol/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
 ## Monotonic Stack
@@ -224,6 +226,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/armaandeol/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/armaandeol/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/armaandeol/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/armaandeol/LeetCode/tree/master/0077-combinations) |
