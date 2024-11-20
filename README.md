@@ -154,6 +154,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/armaandeol/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/armaandeol/LeetCode/tree/master/0069-sqrtx) |
