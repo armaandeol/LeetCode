@@ -77,6 +77,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/armaandeol/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/armaandeol/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -87,6 +88,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0022-generate-parentheses](https://github.com/armaandeol/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/armaandeol/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/armaandeol/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Stack
