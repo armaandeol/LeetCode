@@ -63,6 +63,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/armaandeol/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -204,6 +206,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0022-generate-parentheses](https://github.com/armaandeol/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +215,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
