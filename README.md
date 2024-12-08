@@ -20,6 +20,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/armaandeol/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -87,6 +88,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/armaandeol/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/armaandeol/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 ## String
@@ -171,6 +173,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/armaandeol/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
