@@ -27,6 +27,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0283-move-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/armaandeol/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/armaandeol/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
