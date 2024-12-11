@@ -20,6 +20,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -239,6 +240,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
