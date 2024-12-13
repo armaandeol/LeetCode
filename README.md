@@ -19,6 +19,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/armaandeol/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
@@ -89,6 +90,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/armaandeol/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/armaandeol/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/armaandeol/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
@@ -119,6 +121,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/armaandeol/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
