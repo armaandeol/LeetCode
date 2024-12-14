@@ -22,6 +22,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0075-sort-colors](https://github.com/armaandeol/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -81,6 +82,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0001-two-sum](https://github.com/armaandeol/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/armaandeol/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/armaandeol/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/armaandeol/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
@@ -122,6 +124,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/armaandeol/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
@@ -131,6 +134,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
@@ -197,6 +201,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/armaandeol/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
