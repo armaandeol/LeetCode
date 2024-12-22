@@ -18,6 +18,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0039-combination-sum](https://github.com/armaandeol/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/armaandeol/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/armaandeol/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -188,6 +189,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0007-reverse-integer](https://github.com/armaandeol/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/armaandeol/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/armaandeol/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/armaandeol/LeetCode/tree/master/0069-sqrtx) |
@@ -231,6 +233,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/armaandeol/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
