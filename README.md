@@ -25,6 +25,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/armaandeol/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
@@ -246,6 +247,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/armaandeol/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
