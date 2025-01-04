@@ -28,6 +28,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/armaandeol/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -65,6 +66,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/armaandeol/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/armaandeol/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
