@@ -44,6 +44,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/armaandeol/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/armaandeol/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/armaandeol/LeetCode/tree/master/1127-last-stone-weight) |
@@ -70,6 +71,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/armaandeol/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
