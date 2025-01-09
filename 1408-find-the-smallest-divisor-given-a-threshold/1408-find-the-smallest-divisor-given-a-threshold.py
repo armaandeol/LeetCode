@@ -3,12 +3,12 @@ class Solution:
         def isValid(divisor):
             return sum(math.ceil(num / divisor) for num in nums) <= threshold
 
-        l, r = 1, max(nums) 
-        while l < r:
-            mid = (l + r) // 2
+        left, right = 1, max(nums)
+        while left < right:
+            mid = (left + right) // 2
             if isValid(mid):
-                r = mid 
+                right = mid 
             else:
-                l = mid + 1
+                left = mid + 1
 
-        return l
+        return left
