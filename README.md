@@ -139,11 +139,13 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0125-valid-palindrome](https://github.com/armaandeol/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
