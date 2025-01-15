@@ -1,6 +1,8 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
+        ans = []
         s = s.split(' ')
-        while '' in s:
-            s.remove('')
-        return ' '.join(reversed(s))
+        for i in range(len(s)):
+            if s[-1-i] != '':
+                ans.append(s[-1-i])
+        return ' '.join(ans)
