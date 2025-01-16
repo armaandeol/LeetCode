@@ -142,6 +142,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0151-reverse-words-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/armaandeol/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/armaandeol/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -315,4 +316,8 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/armaandeol/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
