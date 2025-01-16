@@ -1,7 +1,7 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        if len(s) != len(t):
-            return False
+        # if len(s) != len(t):
+        #     return False
 
 
         map_s_to_t = {}
