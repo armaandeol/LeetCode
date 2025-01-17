@@ -135,6 +135,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/armaandeol/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/armaandeol/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/armaandeol/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/armaandeol/LeetCode/tree/master/0058-length-of-last-word) |
