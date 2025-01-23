@@ -92,6 +92,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/armaandeol/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/armaandeol/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/armaandeol/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/armaandeol/LeetCode/tree/master/0023-merge-k-sorted-lists) |
@@ -108,6 +109,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/armaandeol/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/armaandeol/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/armaandeol/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
@@ -254,6 +256,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/armaandeol/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/armaandeol/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/armaandeol/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/armaandeol/LeetCode/tree/master/0048-rotate-image) |
