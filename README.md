@@ -117,6 +117,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/armaandeol/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/armaandeol/LeetCode/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -274,6 +275,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/armaandeol/LeetCode/tree/master/2050-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
