@@ -17,6 +17,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0031-next-permutation](https://github.com/armaandeol/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/armaandeol/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/armaandeol/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/armaandeol/LeetCode/tree/master/0048-rotate-image) |
@@ -357,6 +358,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/armaandeol/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/armaandeol/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/armaandeol/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/armaandeol/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/armaandeol/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/armaandeol/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
