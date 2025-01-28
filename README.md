@@ -265,6 +265,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0002-add-two-numbers](https://github.com/armaandeol/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/armaandeol/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/armaandeol/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/armaandeol/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/armaandeol/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/armaandeol/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/armaandeol/LeetCode/tree/master/0066-plus-one) |
@@ -345,6 +346,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/armaandeol/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/armaandeol/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/armaandeol/LeetCode/tree/master/0090-subsets-ii) |
