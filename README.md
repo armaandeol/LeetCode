@@ -42,6 +42,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/armaandeol/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/armaandeol/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/armaandeol/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/armaandeol/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -194,6 +195,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0232-implement-queue-using-stacks](https://github.com/armaandeol/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/armaandeol/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/armaandeol/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/armaandeol/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -340,6 +342,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/armaandeol/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/armaandeol/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Memoization
 |  |
 | ------- |
