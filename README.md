@@ -53,6 +53,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/armaandeol/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/armaandeol/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/armaandeol/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/armaandeol/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -73,6 +74,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/armaandeol/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/armaandeol/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -97,6 +99,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/armaandeol/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/armaandeol/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
@@ -149,6 +152,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0560-subarray-sum-equals-k](https://github.com/armaandeol/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0966-binary-subarrays-with-sum](https://github.com/armaandeol/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
