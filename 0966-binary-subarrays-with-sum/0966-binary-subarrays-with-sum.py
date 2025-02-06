@@ -3,13 +3,13 @@ class Solution:
         def atMost(goal):
             if goal < 0:
                 return 0
-            l, r, summ, count = 0, 0, 0, 0
-            while r < len(nums):
-                summ += nums[r]
+            left, right, summ, count = 0, 0, 0, 0
+            while right < len(nums):
+                summ += nums[right]
                 while summ > goal:
-                    summ -= nums[l]
-                    l += 1
-                count += (r - l + 1)
-                r += 1
+                    summ -= nums[left]
+                    left += 1
+                count += (right - left + 1)
+                right += 1
             return count
         return atMost(goal) - atMost(goal - 1)
