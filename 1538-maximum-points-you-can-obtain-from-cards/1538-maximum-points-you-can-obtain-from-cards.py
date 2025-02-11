@@ -1,8 +1,9 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
-        if k == len(cardPoints):
-            return sum(cardPoints)
         n = len(cardPoints)
+        if k == n:
+            return sum(cardPoints)
+        
         total_sum = sum(cardPoints)
 
         min_subarray_sum = float('inf')
