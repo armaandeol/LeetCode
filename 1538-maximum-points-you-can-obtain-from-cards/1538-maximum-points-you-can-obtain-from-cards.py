@@ -1,7 +1,7 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
         n = len(cardPoints)
-        if k == n:
+        if k == len(cardPoints):
             return sum(cardPoints)
         
         total_sum = sum(cardPoints)
