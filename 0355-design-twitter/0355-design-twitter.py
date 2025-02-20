@@ -10,7 +10,7 @@ class Twitter(object):
 
     def getNewsFeed(self, userId):
         tweets = heapq.merge(*(self.tweets[u] for u in self.followees[userId] | {userId}))
-        return [t for _, t in itertools.islice(tweets, 10)]
+        return [tw for _, tw in itertools.islice(tweets, 10)]
 
     def follow(self, followerId, followeeId):
         self.followees[followerId].add(followeeId)
