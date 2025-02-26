@@ -212,6 +212,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0402-remove-k-digits](https://github.com/armaandeol/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/armaandeol/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/armaandeol/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -231,6 +232,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0402-remove-k-digits](https://github.com/armaandeol/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/armaandeol/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/armaandeol/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/armaandeol/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/armaandeol/LeetCode/tree/master/0937-online-stock-span) |
@@ -389,6 +391,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0053-maximum-subarray](https://github.com/armaandeol/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/armaandeol/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
@@ -442,6 +445,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0402-remove-k-digits](https://github.com/armaandeol/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/armaandeol/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/armaandeol/LeetCode/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
