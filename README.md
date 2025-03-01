@@ -32,6 +32,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0084-largest-rectangle-in-histogram](https://github.com/armaandeol/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/armaandeol/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/armaandeol/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/armaandeol/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
@@ -448,6 +449,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0045-jump-game-ii](https://github.com/armaandeol/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/armaandeol/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/armaandeol/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/armaandeol/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
