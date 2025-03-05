@@ -3,12 +3,12 @@ class Solution:
         intervals.append(newInterval)
         intervals.sort()
 
-        res = [intervals[0]]
+        ques = [intervals[0]]
 
         for i in range(1, len(intervals)):
-            if res[-1][1] >= intervals[i][0]:
-                res[-1][1] = max(res[-1][1], intervals[i][1])
+            if ques[-1][1] >= intervals[i][0]:
+                ques[-1][1] = max(ques[-1][1], intervals[i][1])
             else:
-                res.append(intervals[i])
+                ques.append(intervals[i])
 
-        return res
+        return ques
