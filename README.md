@@ -46,6 +46,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0283-move-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/armaandeol/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/armaandeol/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -263,6 +264,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0295-find-median-from-data-stream](https://github.com/armaandeol/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/armaandeol/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -397,6 +399,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0055-jump-game](https://github.com/armaandeol/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/armaandeol/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
@@ -452,6 +455,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0055-jump-game](https://github.com/armaandeol/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/armaandeol/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/armaandeol/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
