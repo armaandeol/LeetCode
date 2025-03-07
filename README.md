@@ -230,6 +230,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/armaandeol/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/armaandeol/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/armaandeol/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/armaandeol/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -290,6 +291,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaandeol/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -301,6 +303,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -319,6 +322,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaandeol/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
