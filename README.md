@@ -230,6 +230,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaandeol/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/armaandeol/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/armaandeol/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/armaandeol/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -286,6 +287,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/armaandeol/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/armaandeol/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -298,6 +300,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/armaandeol/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/armaandeol/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -317,6 +320,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/armaandeol/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/armaandeol/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
