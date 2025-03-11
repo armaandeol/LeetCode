@@ -173,6 +173,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/armaandeol/LeetCode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/armaandeol/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/armaandeol/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -274,6 +275,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/armaandeol/LeetCode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
@@ -302,6 +304,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaandeol/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0145-binary-tree-postorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -326,6 +330,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0104-maximum-depth-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -343,6 +348,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaandeol/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
