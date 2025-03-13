@@ -16,7 +16,7 @@ class Solution:
             if root.right: dfs(root.right, lvl_h+1, lvl_v+1)
         
         dfs(root, 0, 0)
-        out = []
+        res = []
         for i in range(self.min_l, self.max_l + 1):
-            out += [[j for i,j in sorted(dic[i])]]
-        return out
+            res += [[j for i,j in sorted(dic[i])]]
+        return res
