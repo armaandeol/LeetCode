@@ -99,6 +99,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0074-search-a-2d-matrix](https://github.com/armaandeol/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/armaandeol/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/armaandeol/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/armaandeol/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -302,6 +303,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0144-binary-tree-preorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/armaandeol/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/armaandeol/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -354,6 +356,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0144-binary-tree-preorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/armaandeol/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/armaandeol/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -471,6 +474,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0078-subsets](https://github.com/armaandeol/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/armaandeol/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/armaandeol/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
