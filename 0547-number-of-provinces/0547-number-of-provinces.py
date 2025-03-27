@@ -7,7 +7,7 @@ class Solution:
                 if adj and nei not in seen:
                     seen.add(nei)
                     dfs(nei)
-        
+    
         ans = 0
         for i in range(N):
             if i not in seen:
