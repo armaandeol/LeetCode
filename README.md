@@ -73,6 +73,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/armaandeol/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/armaandeol/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/armaandeol/LeetCode/tree/master/1127-last-stone-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/armaandeol/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/armaandeol/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -369,6 +370,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/armaandeol/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/armaandeol/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -466,6 +468,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0733-flood-fill](https://github.com/armaandeol/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/armaandeol/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/armaandeol/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
