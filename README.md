@@ -37,6 +37,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/armaandeol/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/armaandeol/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/armaandeol/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
@@ -494,6 +495,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0064-minimum-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/armaandeol/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/armaandeol/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/armaandeol/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
