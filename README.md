@@ -249,6 +249,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0812-rotate-string](https://github.com/armaandeol/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1170-shortest-common-supersequence](https://github.com/armaandeol/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/armaandeol/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/armaandeol/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -519,6 +520,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0943-sum-of-subarray-minimums](https://github.com/armaandeol/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/armaandeol/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/armaandeol/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/armaandeol/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
