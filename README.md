@@ -68,6 +68,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/armaandeol/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/armaandeol/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/armaandeol/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/armaandeol/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
@@ -529,6 +530,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0516-longest-palindromic-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/armaandeol/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/armaandeol/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/armaandeol/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
@@ -596,6 +598,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/armaandeol/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/armaandeol/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/armaandeol/LeetCode/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
