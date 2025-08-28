@@ -105,6 +105,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2227-sum-of-subarray-ranges](https://github.com/armaandeol/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/armaandeol/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/armaandeol/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -337,6 +338,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1129-longest-string-chain](https://github.com/armaandeol/LeetCode/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
@@ -529,6 +531,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1171-shortest-path-in-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/armaandeol/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
