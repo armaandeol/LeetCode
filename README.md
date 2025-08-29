@@ -472,6 +472,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/armaandeol/LeetCode/tree/master/2050-count-good-numbers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/armaandeol/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
