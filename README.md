@@ -100,6 +100,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/armaandeol/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/armaandeol/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/armaandeol/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -488,6 +489,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/armaandeol/LeetCode/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/armaandeol/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -638,6 +640,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/armaandeol/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/armaandeol/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/armaandeol/LeetCode/tree/master/0890-lemonade-change) |
+| [1917-maximum-average-pass-ratio](https://github.com/armaandeol/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
