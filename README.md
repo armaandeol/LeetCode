@@ -285,6 +285,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -341,6 +342,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1129-longest-string-chain](https://github.com/armaandeol/LeetCode/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
