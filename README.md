@@ -286,6 +286,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -478,6 +479,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/armaandeol/LeetCode/tree/master/2050-count-good-numbers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/armaandeol/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -724,4 +726,12 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/armaandeol/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
