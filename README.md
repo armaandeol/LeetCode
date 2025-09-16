@@ -106,6 +106,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/armaandeol/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/armaandeol/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/armaandeol/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
@@ -313,6 +314,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1197-parsing-a-boolean-expression](https://github.com/armaandeol/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/armaandeol/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -480,6 +482,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/armaandeol/LeetCode/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/armaandeol/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Heap (Priority Queue)
@@ -622,6 +625,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Backtracking
 |  |
 | ------- |
