@@ -107,6 +107,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2227-sum-of-subarray-ranges](https://github.com/armaandeol/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/armaandeol/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/armaandeol/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
@@ -225,6 +226,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/armaandeol/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/armaandeol/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -359,6 +361,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
 |  |
 | ------- |
