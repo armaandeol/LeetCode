@@ -76,6 +76,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0733-flood-fill](https://github.com/armaandeol/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/armaandeol/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/armaandeol/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/armaandeol/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/armaandeol/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -139,6 +140,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0300-longest-increasing-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/armaandeol/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/armaandeol/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/armaandeol/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -411,6 +413,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0547-number-of-provinces](https://github.com/armaandeol/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/armaandeol/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/armaandeol/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -434,6 +437,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0547-number-of-provinces](https://github.com/armaandeol/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/armaandeol/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/armaandeol/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -504,6 +508,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0451-sort-characters-by-frequency](https://github.com/armaandeol/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaandeol/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/armaandeol/LeetCode/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -546,6 +551,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0130-surrounded-regions](https://github.com/armaandeol/LeetCode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/armaandeol/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/armaandeol/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/armaandeol/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/armaandeol/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -708,6 +714,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0130-surrounded-regions](https://github.com/armaandeol/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/armaandeol/LeetCode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/armaandeol/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/armaandeol/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
