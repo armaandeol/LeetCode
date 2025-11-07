@@ -110,6 +110,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2271-rearrange-array-elements-by-sign](https://github.com/armaandeol/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/armaandeol/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/armaandeol/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/armaandeol/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -132,6 +133,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/armaandeol/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/armaandeol/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/armaandeol/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +168,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/armaandeol/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/armaandeol/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Linked List
 |  |
@@ -678,6 +682,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1917-maximum-average-pass-ratio](https://github.com/armaandeol/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/armaandeol/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## String Matching
 |  |
@@ -701,6 +706,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0225-implement-stack-using-queues](https://github.com/armaandeol/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/armaandeol/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/armaandeol/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
