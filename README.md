@@ -74,6 +74,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/armaandeol/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/armaandeol/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/armaandeol/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/armaandeol/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/armaandeol/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
