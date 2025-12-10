@@ -122,6 +122,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/armaandeol/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/armaandeol/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -519,6 +520,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/armaandeol/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -778,8 +780,13 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
