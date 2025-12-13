@@ -125,6 +125,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +254,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/armaandeol/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +323,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -387,6 +390,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/armaandeol/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
