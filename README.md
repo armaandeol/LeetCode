@@ -111,6 +111,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/armaandeol/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/armaandeol/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/armaandeol/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/armaandeol/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -527,6 +528,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/armaandeol/LeetCode/tree/master/2050-count-good-numbers) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/armaandeol/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/armaandeol/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -638,6 +640,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/armaandeol/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/armaandeol/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
