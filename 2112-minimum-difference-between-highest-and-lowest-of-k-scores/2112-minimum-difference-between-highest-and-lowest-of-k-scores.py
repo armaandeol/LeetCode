@@ -6,8 +6,5 @@ class Solution:
         dis = float('inf')
         
         for i in range(len(nums)-k+1):
-            if not nums[i+k-1]:
-                pass
-            else:
-                dis = min(dis,abs(nums[i]-nums[i+k-1]))
+            dis = min(dis,abs(nums[i]-nums[i+k-1]))
         return dis
