@@ -94,6 +94,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1127-last-stone-weight](https://github.com/armaandeol/LeetCode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/armaandeol/LeetCode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1306-minimum-absolute-difference](https://github.com/armaandeol/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaandeol/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/armaandeol/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -384,6 +385,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaandeol/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/armaandeol/LeetCode/tree/master/1129-longest-string-chain) |
+| [1306-minimum-absolute-difference](https://github.com/armaandeol/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaandeol/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
