@@ -122,6 +122,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2694-find-the-maximum-divisibility-score](https://github.com/armaandeol/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/armaandeol/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/armaandeol/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/armaandeol/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/armaandeol/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -393,6 +394,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/armaandeol/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/armaandeol/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/armaandeol/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -807,4 +809,8 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
