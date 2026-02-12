@@ -260,6 +260,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
+| [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -330,6 +331,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
+| [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -412,6 +414,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
@@ -816,4 +819,5 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
