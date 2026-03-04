@@ -105,6 +105,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1646-kth-missing-positive-number](https://github.com/armaandeol/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/armaandeol/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/armaandeol/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/armaandeol/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -606,6 +607,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1073-number-of-enclaves](https://github.com/armaandeol/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/armaandeol/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3748-sort-matrix-by-diagonals](https://github.com/armaandeol/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
