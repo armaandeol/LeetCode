@@ -53,6 +53,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0219-contains-duplicate-ii](https://github.com/armaandeol/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/armaandeol/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/armaandeol/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/armaandeol/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -159,6 +160,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0162-find-peak-element](https://github.com/armaandeol/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaandeol/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/armaandeol/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
@@ -239,6 +241,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0217-contains-duplicate](https://github.com/armaandeol/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/armaandeol/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/armaandeol/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/armaandeol/LeetCode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/armaandeol/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -380,6 +383,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0215-kth-largest-element-in-an-array](https://github.com/armaandeol/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/armaandeol/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/armaandeol/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/armaandeol/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/armaandeol/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -538,6 +542,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0189-rotate-array](https://github.com/armaandeol/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/armaandeol/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -690,6 +695,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/armaandeol/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/armaandeol/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Number Theory
 |  |
