@@ -13,6 +13,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/armaandeol/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/armaandeol/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/armaandeol/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -271,6 +272,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/armaandeol/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/armaandeol/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/armaandeol/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/armaandeol/LeetCode/tree/master/0031-next-permutation) |
@@ -377,6 +379,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/armaandeol/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/armaandeol/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/armaandeol/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/armaandeol/LeetCode/tree/master/0169-majority-element) |
