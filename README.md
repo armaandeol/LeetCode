@@ -83,6 +83,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0759-set-intersection-size-at-least-two](https://github.com/armaandeol/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0875-longest-mountain-in-array](https://github.com/armaandeol/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/armaandeol/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/armaandeol/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/armaandeol/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -292,6 +293,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0875-longest-mountain-in-array](https://github.com/armaandeol/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/armaandeol/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/armaandeol/LeetCode/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -653,6 +655,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0583-delete-operation-for-two-strings](https://github.com/armaandeol/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/armaandeol/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/armaandeol/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0875-longest-mountain-in-array](https://github.com/armaandeol/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/armaandeol/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/armaandeol/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
@@ -832,6 +835,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/armaandeol/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
