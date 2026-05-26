@@ -344,6 +344,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/armaandeol/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/armaandeol/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/armaandeol/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
