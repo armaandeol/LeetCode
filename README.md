@@ -271,6 +271,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/armaandeol/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/armaandeol/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
@@ -345,6 +346,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/armaandeol/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
