@@ -111,6 +111,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/armaandeol/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1751-slowest-key](https://github.com/armaandeol/LeetCode/tree/master/1751-slowest-key) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/armaandeol/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/armaandeol/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -342,6 +343,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/armaandeol/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/armaandeol/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/armaandeol/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1751-slowest-key](https://github.com/armaandeol/LeetCode/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/armaandeol/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/armaandeol/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
