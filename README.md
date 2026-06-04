@@ -577,6 +577,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/armaandeol/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/armaandeol/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -689,6 +690,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/armaandeol/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/armaandeol/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/armaandeol/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -861,4 +863,5 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0875-longest-mountain-in-array](https://github.com/armaandeol/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/armaandeol/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
