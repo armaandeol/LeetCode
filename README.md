@@ -129,6 +129,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/armaandeol/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/armaandeol/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
+| [2714-left-and-right-sum-differences](https://github.com/armaandeol/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/armaandeol/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -196,6 +197,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1694-make-sum-divisible-by-p](https://github.com/armaandeol/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2714-left-and-right-sum-differences](https://github.com/armaandeol/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/armaandeol/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Linked List
 |  |
