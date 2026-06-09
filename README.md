@@ -143,6 +143,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
+| [4005-maximum-total-subarray-value-i](https://github.com/armaandeol/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -781,6 +782,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/armaandeol/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/armaandeol/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [4005-maximum-total-subarray-value-i](https://github.com/armaandeol/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## String Matching
 |  |
 | ------- |
