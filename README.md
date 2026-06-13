@@ -106,6 +106,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/armaandeol/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/armaandeol/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/armaandeol/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/armaandeol/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/armaandeol/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/armaandeol/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -276,6 +277,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaandeol/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/armaandeol/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/armaandeol/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/armaandeol/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -433,6 +435,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1129-longest-string-chain](https://github.com/armaandeol/LeetCode/tree/master/1129-longest-string-chain) |
 | [1306-minimum-absolute-difference](https://github.com/armaandeol/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaandeol/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/armaandeol/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
