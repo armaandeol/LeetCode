@@ -64,6 +64,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0322-coin-change](https://github.com/armaandeol/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/armaandeol/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/armaandeol/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/armaandeol/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/armaandeol/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/armaandeol/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -591,6 +592,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0258-add-digits](https://github.com/armaandeol/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/armaandeol/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/armaandeol/LeetCode/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/armaandeol/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/armaandeol/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -693,6 +695,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0322-coin-change](https://github.com/armaandeol/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/armaandeol/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/armaandeol/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/armaandeol/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/armaandeol/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0474-ones-and-zeroes) |
