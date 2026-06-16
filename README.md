@@ -369,6 +369,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/armaandeol/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/armaandeol/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/armaandeol/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/armaandeol/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4216-weighted-word-mapping](https://github.com/armaandeol/LeetCode/tree/master/4216-weighted-word-mapping) |
@@ -411,6 +412,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2265-partition-array-according-to-given-pivot](https://github.com/armaandeol/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/armaandeol/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/armaandeol/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3931-process-string-with-special-operations-i](https://github.com/armaandeol/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [4216-weighted-word-mapping](https://github.com/armaandeol/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Sorting
 |  |
