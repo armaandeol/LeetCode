@@ -70,6 +70,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/armaandeol/LeetCode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/armaandeol/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/armaandeol/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/armaandeol/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -177,6 +178,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0222-count-complete-tree-nodes](https://github.com/armaandeol/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/armaandeol/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0475-heaters](https://github.com/armaandeol/LeetCode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaandeol/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/armaandeol/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/armaandeol/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -315,6 +317,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0283-move-zeroes](https://github.com/armaandeol/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/armaandeol/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/armaandeol/LeetCode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/armaandeol/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/armaandeol/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/armaandeol/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -435,6 +438,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0435-non-overlapping-intervals](https://github.com/armaandeol/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/armaandeol/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/armaandeol/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/armaandeol/LeetCode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/armaandeol/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/armaandeol/LeetCode/tree/master/0621-task-scheduler) |
 | [0759-set-intersection-size-at-least-two](https://github.com/armaandeol/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
