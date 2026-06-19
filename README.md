@@ -118,6 +118,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/armaandeol/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1751-slowest-key](https://github.com/armaandeol/LeetCode/tree/master/1751-slowest-key) |
 | [1753-path-with-minimum-effort](https://github.com/armaandeol/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1833-find-the-highest-altitude](https://github.com/armaandeol/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/armaandeol/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/armaandeol/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/armaandeol/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -204,6 +205,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/armaandeol/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/armaandeol/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1833-find-the-highest-altitude](https://github.com/armaandeol/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/armaandeol/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2714-left-and-right-sum-differences](https://github.com/armaandeol/LeetCode/tree/master/2714-left-and-right-sum-differences) |
