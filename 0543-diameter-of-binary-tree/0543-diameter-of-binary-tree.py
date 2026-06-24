@@ -6,19 +6,30 @@
 #         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        largest_diameter = [0]
+        stack = [(root,False)]
+        max_height_dict = {}
+        diameter = 0
 
-        def height(root):
-            if root is None:
-                return 0
-            
-            left_height = height(root.left)
-            right_height = height(root.right)
-            diameter = left_height + right_height
-            
-            largest_diameter[0] = max(largest_diameter[0],diameter)
+        while stack:
+            node,visited = stack.pop()
+            if not visited:
+                stack.append((node,True))
+                if node.left:
+                    stack.append((node.left, False))
+                if node.right:
+                     stack.append((node.right, False))
+            else:
+                if node.left is None:
+                    left_height = 0
+                else:
+                    left_height = max_height_dict.pop(node.left)
+                
+                if node.right is None:
+                    right_height = 0
+                else:
+                    right_height = max_height_dict.pop(node.right)
 
-            return 1 + max(left_height,right_height)
+                diameter = max(diameter,left_height+right_height)
+                max_height_dict[node] = max(left_height, right_height) + 1
 
-        height(root)
-        return largest_diameter[0]
+        return diameter
