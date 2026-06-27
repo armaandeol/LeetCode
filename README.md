@@ -41,6 +41,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0120-triangle](https://github.com/armaandeol/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaandeol/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/armaandeol/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/armaandeol/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/armaandeol/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/armaandeol/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/armaandeol/LeetCode/tree/master/0136-single-number) |
@@ -258,6 +259,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/armaandeol/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/armaandeol/LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/armaandeol/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/armaandeol/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/armaandeol/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/armaandeol/LeetCode/tree/master/0146-lru-cache) |
@@ -914,4 +916,8 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/armaandeol/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/armaandeol/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/armaandeol/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
