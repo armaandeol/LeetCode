@@ -140,6 +140,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/armaandeol/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/armaandeol/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/armaandeol/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/armaandeol/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/armaandeol/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -294,6 +295,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/armaandeol/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/armaandeol/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/armaandeol/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/armaandeol/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/armaandeol/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/armaandeol/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3819-count-covered-buildings](https://github.com/armaandeol/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -909,6 +911,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/armaandeol/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaandeol/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/armaandeol/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4055-longest-balanced-substring-i](https://github.com/armaandeol/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/armaandeol/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
