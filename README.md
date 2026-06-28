@@ -920,4 +920,8 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/armaandeol/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/armaandeol/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
