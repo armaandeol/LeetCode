@@ -934,6 +934,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0183-customers-who-never-order](https://github.com/armaandeol/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/armaandeol/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/armaandeol/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/armaandeol/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/armaandeol/LeetCode/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/armaandeol/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
