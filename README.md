@@ -123,6 +123,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1834-minimum-number-of-people-to-teach](https://github.com/armaandeol/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/armaandeol/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/armaandeol/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/armaandeol/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/armaandeol/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/armaandeol/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -463,6 +464,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaandeol/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/armaandeol/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/armaandeol/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/armaandeol/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/armaandeol/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -812,6 +814,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0890-lemonade-change](https://github.com/armaandeol/LeetCode/tree/master/0890-lemonade-change) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/armaandeol/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/armaandeol/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/armaandeol/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/armaandeol/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/armaandeol/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
