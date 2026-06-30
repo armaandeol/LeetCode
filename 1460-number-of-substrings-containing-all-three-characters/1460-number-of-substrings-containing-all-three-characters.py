@@ -1,15 +1,15 @@
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
-        res = [0, 0, 0]
-        l = 0
-        result = 0
+        count = {'a': 0, 'b': 0, 'c': 0}
+        left = 0
+        ans = 0
 
-        for r in range(len(s)):
-            res[ord(s[r]) - ord('a')] += 1
+        for right in range(len(s)):
+            count[s[right]] += 1
 
-            while all(res):
-                result += len(s) - r
-                res[ord(s[l]) - ord('a')] -= 1
-                l += 1
+            while count['a'] and count['b'] and count['c']:
+                ans += len(s) - right
+                count[s[left]] -= 1
+                left += 1
 
-        return result
+        return ans
