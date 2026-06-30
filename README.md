@@ -384,6 +384,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/armaandeol/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/armaandeol/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2187-vowels-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/armaandeol/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/armaandeol/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/armaandeol/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -623,6 +624,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1370-count-number-of-nice-subarrays](https://github.com/armaandeol/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/armaandeol/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/armaandeol/LeetCode/tree/master/2050-count-good-numbers) |
+| [2187-vowels-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/armaandeol/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/armaandeol/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/armaandeol/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -742,6 +744,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/armaandeol/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/armaandeol/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/armaandeol/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2187-vowels-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/armaandeol/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/armaandeol/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
@@ -912,6 +915,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 ## Combinatorics
 |  |
 | ------- |
+| [2187-vowels-of-all-substrings](https://github.com/armaandeol/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
