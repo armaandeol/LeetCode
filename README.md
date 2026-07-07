@@ -632,6 +632,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/armaandeol/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/armaandeol/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/armaandeol/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/armaandeol/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
