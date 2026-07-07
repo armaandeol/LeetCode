@@ -952,5 +952,6 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/armaandeol/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/armaandeol/LeetCode/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/armaandeol/LeetCode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/armaandeol/LeetCode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/armaandeol/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
