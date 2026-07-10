@@ -959,6 +959,7 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [0626-exchange-seats](https://github.com/armaandeol/LeetCode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/armaandeol/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1153-product-sales-analysis-i](https://github.com/armaandeol/LeetCode/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/armaandeol/LeetCode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/armaandeol/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/armaandeol/LeetCode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
