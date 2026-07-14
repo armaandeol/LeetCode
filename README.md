@@ -967,5 +967,6 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1317-monthly-transactions-i](https://github.com/armaandeol/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/armaandeol/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/armaandeol/LeetCode/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/armaandeol/LeetCode/tree/master/1452-restaurant-growth) |
 | [1541-top-travellers](https://github.com/armaandeol/LeetCode/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
