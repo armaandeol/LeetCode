@@ -972,4 +972,5 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/armaandeol/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/armaandeol/LeetCode/tree/master/1541-top-travellers) |
 | [1664-find-users-with-valid-e-mails](https://github.com/armaandeol/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/armaandeol/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
