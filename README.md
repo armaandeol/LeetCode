@@ -976,4 +976,5 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/armaandeol/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/armaandeol/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/armaandeol/LeetCode/tree/master/1827-invalid-tweets) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/armaandeol/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
