@@ -983,4 +983,5 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/armaandeol/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3767-find-students-who-improved](https://github.com/armaandeol/LeetCode/tree/master/3767-find-students-who-improved) |
 | [3816-dna-pattern-recognition](https://github.com/armaandeol/LeetCode/tree/master/3816-dna-pattern-recognition) |
+| [3848-analyze-subscription-conversion](https://github.com/armaandeol/LeetCode/tree/master/3848-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
