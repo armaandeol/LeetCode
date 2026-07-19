@@ -981,4 +981,5 @@ LeetCode is an excellent platform to practice coding problems that cover a wide 
 | [1942-primary-department-for-each-employee](https://github.com/armaandeol/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/armaandeol/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/armaandeol/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3767-find-students-who-improved](https://github.com/armaandeol/LeetCode/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
