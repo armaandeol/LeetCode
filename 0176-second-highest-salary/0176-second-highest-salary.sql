@@ -1,9 +1,3 @@
 # Write your MySQL query statement below
-SELECT (
-    SELECT MAX(salary)
-    FROM Employee
-    WHERE salary < (
-        SELECT MAX(salary)
-        FROM Employee
-    )
-) AS SecondHighestSalary;
+select max(salary) as SecondHighestSalary from Employee 
+where salary not in (select max(salary) from Employee);
